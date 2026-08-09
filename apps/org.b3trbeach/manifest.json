@@ -1,0 +1,9 @@
+{
+  "name": "B3TR Beach",
+  "href": "https://www.b3trbeach.org/app",
+  "desc": "A 501(c)(3) nonprofit organizing verified beach, river, and park cleanups worldwide. Every approved cleanup is AI-validated, GPS-anchored, and B3TR-rewarded.",
+  "category": "utilities",
+  "tags": ["sustainability", "cleanup", "vebetterdao"],
+  "isVeWorldSupported": true,
+  "veBetterDaoId": "0x1c5140f93ee9e727f5124e810e537b9cd23b8f9003c7dd5f8317e0e26517d4e7"
+}
